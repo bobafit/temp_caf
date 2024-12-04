@@ -1,0 +1,41 @@
+{
+    "platform": {
+      "description": "platorm test",
+      "subscription_list": [
+
+      ] 
+    },
+    "projects": {
+      "description": "projects test",
+      "subscription_list": [] 
+    },
+    "prd": {
+      "description": "prd",
+      "subscription_list": [
+        "Ototsu_stg",
+        "Ototsu_prd"
+      ] 
+    },
+    "dev": {
+      "description": "dev",
+      "subscription_list": [
+        "Ototsu_dev"
+      ] 
+    },
+    "training": {
+      "description": "training",
+      "subscription_list": [] 
+    },
+    "crowdstrike": {
+      "description": "crowdstrike",
+      "subscription_list": [] 
+    },
+    "crowdstrike_platform": {
+      "description": "crowdstrike_platform",
+      "subscription_list": [
+        "Maishi_mgmt",
+        "Maishi_sec"
+      ]
+    }
+}
+  
