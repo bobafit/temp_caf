@@ -30,6 +30,7 @@ locals {
   # cpe_cmdb_dev = jsondecode(file("lib/cpe_cmdb_dev.json"))
   # cpe_cmdb_prd = jsondecode(file("lib/cpe_cmdb_prd.json"))
   cpe_cmdb = jsondecode(file(var.cpe_cmdb_file))
+  test = jsondecode(file("./project_list.json"))
   archetype_definition_cpe_root = {}
 
 }
