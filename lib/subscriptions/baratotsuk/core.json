@@ -1,0 +1,15 @@
+{
+    "platform": [
+      "Ototsu_stg",
+      "Ototsu_prd",
+      "Ototsu_dev"
+    ],
+    "projects": [
+    ],
+    "training": [
+    ],
+    "crowdstrike_platform": [
+      "Maishi_mgt",
+      "Maishi_sec"
+    ]
+}
